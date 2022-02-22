@@ -1,5 +1,6 @@
 # hotplug-extras
 hotplug-extras.sh
+Originaly proposed by @vgaetera
 
 REFS:
 - https://openwrt.org/license
